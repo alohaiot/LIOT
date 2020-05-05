@@ -1,0 +1,15 @@
+{
+  "projectName": "LIOT.us",
+  "projectType": "web",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "targets": [
+    {
+      "access": "local",
+      "remoteURL": "http://liot.us",
+      "localFolder": "file:///C:/Users/x3rx3/Documents/Websites/LIOT",
+      "name": "LIOT.us"
+    }
+  ],
+  "frameworks": []
+}
